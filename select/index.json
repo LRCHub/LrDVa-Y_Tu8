@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Ruined in a Day (Radio Edit)",
+  "base_artist": "New Order",
+  "createdAt": "2026-03-25T03:41:06.990812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ruined In a Day (Radio Edit)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/01_Ruined_In_a_Day_(Radio_Edit)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ruined In A Day (Radio Edit)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/02_Ruined_In_A_Day_(Radio_Edit)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ruined in a Day (Radio Edit) (2015 Remaster)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/03_Ruined_in_a_Day_(Radio_Edit)_(2015_Remaster)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ruined in a Day (Radio Edit; 2015 Remaster)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/04_Ruined_in_a_Day_(Radio_Edit;_2015_Remaster)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ruined In A Day - Radio Edit;2015 Remastered Version",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/05_Ruined_In_A_Day_-_Radio_Edit;2015_Remastered_Version_New_Order.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ruined in a Day [Radio Edit]",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/06_Ruined_in_a_Day_[Radio_Edit]_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ruined in a Day [Radio Edit]",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/07_Ruined_in_a_Day_[Radio_Edit]_New_Order.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ruined in a Day (Radio Edit) (Radio Edit)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/08_Ruined_in_a_Day_(Radio_Edit)_(Radio_Edit)_New_Order.lrc"
+    }
+  ]
+}
