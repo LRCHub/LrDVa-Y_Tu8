@@ -1,0 +1,36 @@
+# New Order – Ruined in a Day (Radio Edit)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:43.84] Listen
+[00:46.42] I may be wrong, but you're missing
+[00:50.82] There's something wrong you could say
+[00:56.28] Ruined in a day
+[01:00.97] You could be the lover of jade
+[01:05.24] Forever on your own in the shade
+[01:09.76] Let's do it anyway
+[01:18.76] 
+[01:13.65] Some people like to deceive you
+[01:17.74] While others may feel that they need you
+[01:22.41] Well, I do the best that we can
+[01:27.26] Keeping my life in my hands
+[01:40.76] 
+[01:40.31] And if you feel your cradle rocking
+[01:44.97] Then take the wheel
+[01:47.04] Don't let me stop you (hang around for awhile)
+[01:53.09] But stop acting like a child
+[01:58.51] Every step you take is the one
+[02:02.34] That's gonna undo what you've done
+[02:07.43] It could take all day
+[02:17.93] 
+[02:10.62] Some people like to deceive you
+[02:15.06] While others may feel that they need you
+[02:19.66] But I do the best that I can
+[02:24.55] I keep my world in my hands
+[02:38.05] 
+[03:12.11] Some people like to deceive you
+[03:16.67] While others may feel that they need you
+[03:21.42] But I do the best that I can
+[03:26.09] Keeping my world in my hands
+```
